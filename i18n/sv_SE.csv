@@ -1,5 +1,7 @@
+"Apply Discount","AD5"
 "Apply Discount","AD5","module","Magento_SalesRule"
 "Apply Discount","AD5","module","Magento_Checkout"
 "Apply Discount","AD5","module","Magento_Tax"
+"The coupon code isn't valid. Verify the code and try again.","C5"
 "The coupon code isn't valid. Verify the code and try again.","C5","module","Magento_Quote"
 "The coupon code isn't valid. Verify the code and try again.","C5","module","Magento_SalesRule"
