@@ -3,12 +3,20 @@
   "description": "Swedish language pack for Magento 2",
   "type": "magento2-language",
   "version": "1.0.0",
+  "require": {
+    "magento/framework": "*"
+  },
   "autoload": {
     "files": [
       "registration.php"
     ]
   },
-  "require": {
-    "magento/framework": "*"
+  "extra": {
+    "map": [
+      [
+        "*",
+        "verbanent/pack"
+      ]
+    ]
   }
 }

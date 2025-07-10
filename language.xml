@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/language.xsd">
+    <code>sv_SE</code>
+    <vendor>Verbanent</vendor>
+    <package>Pack</package>
+</language>

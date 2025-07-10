@@ -3,6 +3,6 @@ use Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(
     ComponentRegistrar::LANGUAGE,
-    'verbanent_pack',
-    __DIR__ . '/Verbanent/Pack'
+    'verbanent_sv_se',
+    __DIR__
 );
